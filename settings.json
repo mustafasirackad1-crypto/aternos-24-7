@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "Jepri",
+    "username": "jefreyepstein",
     "password": "",
     "type": "offline"
   },
 
   "server": {
-    "ip": "tirens.aternos.me",
-    "port": 58183,
+    "ip": "MusEneSMP.aternos.me",
+    "port": 29562,
     "version": "1.12.1"
   },
 
@@ -35,9 +35,9 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I love tomboy yung may mio",
-        "Terrenz love Ashlee",
-        "I Like to Play Minecraft"
+        "enes'in gotu cok guzel",
+        "enes cok gay oluyor",
+        "enes'in ben ta a agzindan opiyim"
       ]
     },
 
